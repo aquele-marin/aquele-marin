@@ -1,5 +1,5 @@
 <h2 align="left"> 
-   Hi ! I'm a Software Engineer at @Retina and Undergrad at @USP! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="25px">
+   Hi ! I'm a Software Engineer currently unemployed and Undergrad at @USP! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="25px">
    <img align="right" vertical-align="center" src="https://komarev.com/ghpvc/?username=aquele-marin" alt="aquele-marin" />
 </h2>
 
@@ -10,7 +10,7 @@
 • 👨‍💻 Mostly working as a front-end dev. <br>
 • 🔬 Undergrad in information systems.<br>
 • 🌱 Mainly learning about React.js and Dataviz. <br>
-• 🥅 2022 Goals: Launch @Retina's MVP.
+• 🥅 2023 Goals: Learn cloud computing and get front-end certificates.
 
 ### 🧰 Tech Stack:
 
@@ -44,7 +44,3 @@
    <img align="left" alt="aquele-marin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aquele-marin&show_icons=true&hide_border=true" />
    <img align="right" alt="favourite langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquele-marin&language=compact&hide_border=true" />
 </details>
-
-<hr>
-
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
