@@ -1,5 +1,5 @@
 <h2 align="left"> 
-   Hi ! I'm a Software Engineer currently unemployed and Undergrad at @USP! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="25px">
+   Hi ! I'm a Software Engineer currently working at @IcaroTech and Undergrad at @USP! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="25px">
    <img align="right" vertical-align="center" src="https://komarev.com/ghpvc/?username=aquele-marin" alt="aquele-marin" />
 </h2>
 
@@ -7,10 +7,10 @@
 
 ### ➕ More about me:
 
-• 👨‍💻 Mostly working as a front-end dev. <br>
-• 🔬 Undergrad in information systems.<br>
-• 🌱 Mainly learning about React.js and Dataviz. <br>
-• 🥅 2023 Goals: Learn cloud computing and get front-end certificates.
+• 👨‍💻 Mostly working as a BMC Helix developer. <br>
+• 🔬 Complete undergrad in information systems.<br>
+• 🌱 Mainly learning about computer networks and SOLID patterns. <br>
+• 🥅 2025 Goals: Change my working are to some code related and build great things.
 
 ### 🧰 Tech Stack:
 
@@ -28,7 +28,7 @@
 <p>
 <img src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/us.svg" alt="us" width="20" height="20"/> 
 <img src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/es.svg" alt="es" width="20" height="20"/> 
-<img src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/br.svg" alt="es" width="20" height="20"/> 
+<img src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/br.svg" alt="br" width="20" height="20"/> 
 </p>
 
 ### 📬 Reach out to me:
