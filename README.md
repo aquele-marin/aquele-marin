@@ -1,5 +1,5 @@
 <h2 align="left"> 
-   Hi ! I'm a Software Engineer currently working at @IcaroTech and Undergrad at @USP! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="25px">
+   Hi ! I'm a Software Engineer currently working at @QITech and Graduated from @USP! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="25px">
    <img align="right" vertical-align="center" src="https://komarev.com/ghpvc/?username=aquele-marin" alt="aquele-marin" />
 </h2>
 
@@ -7,20 +7,20 @@
 
 ### ➕ More about me:
 
-• 👨‍💻 Mostly working as a BMC Helix developer. <br>
-• 🔬 Complete undergrad in information systems.<br>
-• 🌱 Mainly learning about computer networks and SOLID patterns. <br>
-• 🥅 2025 Goals: Change my working are to some code related and build great things.
+• 👨‍💻 Working as a Software Engineer. <br>
+• 🔬 Complete graduation in information systems.<br>
+• 🌱 Mainly learning about AI Agents and SOLID patterns. <br>
+• 🥅 2026 Goals: Start studying about Data Science and AI Engineering.
 
 ### 🧰 Tech Stack:
 
 <p align="left">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="25" height="25"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5"  width="25" height="25"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3"  width="25" height="25"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="vue" width="25" height="25"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="25" height="25"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="25" height="25" />
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="25" height="25" />
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width="25" height="25" />
 </p>
 
 ### 🗣️ Supported Languages:
